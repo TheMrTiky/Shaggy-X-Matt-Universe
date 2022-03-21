@@ -81,6 +81,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+      ['ShaggyXMatt Universe'],
+      ['MrTiky', 'mrtiky', 'Main Onwer, charter, coder, Artist, Animator, musician', 'https://m.youtube.com/channel/UCfvw4vqGD-RqvXP1tkH-tFA', '000000']
+      ['PixelCat', 'pixelcat', 'The Friend of Mrtiky, musician and artist', '', '000000'],
+      ['Pambi', 'pambi', 'The Animator, Artist', '', '000000'],
 			['Psych Engine Extra Keys'],
 			['tposejank', 			'unknown',			'Main programmer of ~~the keys~~', 						'https://twitter.com/tpose_jank', 		'000000'],
 			[''],
